@@ -2,10 +2,9 @@
 
 don't just open index.html, run a server with vite or python;
 
-# Vite
-```cd LogIn-Form```   
+# Vite 
 `npm install -g serve`  
-`serve dist`  
+`serve LogIn-Form`  
 
 # Python
 `cd LogIn-Form`  

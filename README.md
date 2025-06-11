@@ -5,6 +5,7 @@ don't just open index.html, run a server with vite or python;
 # Vite 
 `npm install -g serve`  
 `serve LogIn-Form`  
+`http://localhost:3000`
 
 # Python
 `cd LogIn-Form`  
